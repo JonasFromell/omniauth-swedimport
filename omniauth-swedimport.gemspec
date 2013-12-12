@@ -18,6 +18,6 @@ Gem::Specification.new do |s|
 
   s.add_runtime_dependency 'omniauth-oauth2'
 
-  s.add_development_dependeny 'minitest'
-  s.add_development_dependeny 'rake'
+  s.add_development_dependency 'minitest'
+  s.add_development_dependency 'rake'
 end
