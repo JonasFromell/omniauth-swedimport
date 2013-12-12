@@ -1,5 +1,5 @@
 # -*- encoding: utf-8 -*-
-$:.push File.expand('../lib', __FILE__)
+$:.push File.expand_path('../lib', __FILE__)
 require 'omniauth/swedimport/version'
 
 Gem::Specification.new do |s|
